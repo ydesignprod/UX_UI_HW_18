@@ -60,7 +60,7 @@
 
 .mySkills{
 	text-align: center;
-	border: 1px solid red;
+	
 }
 
 .flexContainer{
@@ -75,13 +75,14 @@
 
 .myWork{
 	text-align: center;
-	border: 1px solid red;
+	
 }
 
 .myworkimg{
     display: inline-block;
-    height:600px;
+
     padding:25px;
+
   }
 
 
@@ -96,7 +97,7 @@
 
 .workGrid > div {
   /*background-color: rgba(255, 255, 255, 0.8);*/
-  border: 1px solid pink;
+ 
 }
 
 .workGrid-Item1{
